@@ -1,0 +1,5 @@
+Requirements:
+
+There are no requirements needed for my project as it is developed in Google Colab and all libraries are pulled in the first section.
+
+Alex Simonin - 18212250 - 25/04/2018
